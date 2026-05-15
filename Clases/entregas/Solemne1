@@ -1,0 +1,81 @@
+function setup() {
+  createCanvas(500, 400);
+}
+
+function draw() {
+  //fomndo
+  background(255,000,000);
+  noStroke();
+  fill(255)
+  square(270,0,400);
+ push()
+  stroke(255)
+  strokeWeight(6)
+  noFill()
+ square(50,0,300)
+ pop()
+  //ojo
+  fill(255)
+  noStroke()
+  strokeWeight(2)
+  circle(250,200,200);
+  
+  //pupila
+   push()
+  stroke(0)
+  circle (250,200,120)
+  pop()
+  
+  push();
+  fill(0)
+  noStroke()
+  circle(250,200,100)
+  pop();
+
+  //triangulos d
+  push()
+  fill(0)
+  triangle(320,10,370,20,290,110);
+  triangle(345,70,390,80,320,150);
+   triangle(370,120,410,130,350,200);
+  //mas triangulos sin rellno
+  pop()
+  //semicirculo
+  push()
+  noFill();
+  stroke(255,0,0)
+  strokeWeight(5)
+  arc(250, 208, 190, 190, 0, HALF_PI);
+  
+    strokeWeight(20)
+   arc(250, 200, 300, 300, 0, HALF_PI);
+  
+pop()
+  //triangulos iz
+  push()
+  fill(255)
+  noStroke()
+  triangle(180,10,130,20,225,110);
+  triangle(155,70,110,80,165,150);
+   triangle(130,120,90,130,150,200);
+  //aca añadir mas riangulos sin relleno
+  pop()
+ 
+  // quiero rotar el texto y que este de lado para leerse 
+  //no tengo idea porque se crar eso raro detras del texto, pero tendre que ir revisando 
+  //al eliminar un semi circulo se arreglo el textp? no se porque 
+  push()
+  fill(0);
+  textSize(20);
+  textAlign(CENTER,BOTTOM)
+  textFont('serif')
+  text("Los hechos crean normas,y la verdad ilumina.",200,390);
+  pop()
+  
+  // la frase viene de Werner Herzog: La Declaración de Minnesota, en ingles es :4. Fact creates norms, and truth illumination.
+  
+  //mentira no se arreglo los semi circulos estan haciendo algo raro tendre que modificarlos
+  //listo solo era push y pop
+
+  
+}
