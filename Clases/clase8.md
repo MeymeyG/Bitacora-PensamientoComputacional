@@ -42,3 +42,5 @@ for y por ej, un if pueden crear un loop y de ahi reinicia (este del inicio es u
 recomendacion: hacer funciones y despues solo llamarlas
 las funciones me ayudan a crear las cosas e capaz, estas se utilizan denajo de draw
 *Claude.ia ayuda a corregir los programaciones y a crear codigo*
+
+Encargos: que faltan para tener buena nota, lo de la pelicula, las variables de tiempo, no se donde esta lol, agregar foto de del afiche antes de la solemne 1, probar lode subir imagenes para probar en pj5
