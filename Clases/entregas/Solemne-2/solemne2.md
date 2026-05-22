@@ -6,7 +6,7 @@
 
 ## Descripción del disco
 
-![Portada de álbum xxxx yyyy](./img/cover.jpg)
+![Portada ROSA](./IMG/CAMI.jpg)
 
 - Nombre del álbum: ROSA
 - Año del álbum: 2018
