@@ -1,2 +1,2 @@
-(./IMG/CAMI.jpg)
+!(./IMG/CAMI.jpg)
 
