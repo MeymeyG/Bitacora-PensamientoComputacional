@@ -1,4 +1,4 @@
-# Plantilla para solemne-02
+# solemne-02
 
 ## Integrantes del grupo
 
@@ -26,16 +26,14 @@
 
 - Aspecto del álbum a desarrollar (premisa)
 
-> Lorem ipsum blablabla
-
-## Conclusión del proceso
-
 El proyecto se basa del álbum “ROSA”, principalmente desde la canción “Querida Rosa”. La propuesta busca representar visualmente el desgaste emocional, la pérdida y el intento constante de conservar algo que lentamente desaparece.
 
 A través de la interacción del usuario, se transforma una rosa de estar con vida hasta marchitarse. El clic izquierdo da paso el marchitamiento, de esta forma es que se busca que quien interactue con esto se involucre mas haya de verlo. Con el paso de los clicks aparecen cambios visuales como bordes oscuros, variaciones de color y textos que refuerzan la sensación de duelo y agotamiento emocional.
-- Cosas no conseguidas
-En un inicio se tenia pensado que se pudiera ir hacia adelante y hacia atras, pero al no conseguir una constancia en el retroceso se descarto, tambien antes el cursor iba a tener una forma diferente dependiendo del click pero en su momento no sabia solucionar un problema que era con el color, actualmente creo que ya se como resolver eso( ese codigo quedo abandonado pero no quise borrarlo del codigo,
--Al final queria hacer petalos pero al hacerlo los codigos no los entendia y decidi descartarlo porque si algo dentro del codigo no podia entenderlo se borraba.
+
+## Conclusión del proceso
+La idea inicial era una transición mucho más compleja entre distintas imágenes y estados emocionales. Sin embargo, durante el proceso fue necesario simplificar algunas decisiones para adaptarlas a lo que conocia y al tiempo de desarrollo.
+
+A pesar de todos los cambios, el resultado final mantiene la intención principal del proyecto: representar el deterioro emocional y el esfuerzo constante por conservar un recuerdo o vínculo emocional.
 
 - Descubrimientos al trabajar
 
