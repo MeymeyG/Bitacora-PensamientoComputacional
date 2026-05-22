@@ -27,6 +27,8 @@ function setup() {
 
 function draw() {
   background(220);
+
+  print("Hola! Para comenzar haz click izquierdo hasta que veas cambios")
   
   noCursor()
   mostrarFlor();
